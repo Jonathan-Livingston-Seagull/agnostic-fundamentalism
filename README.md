@@ -1,6 +1,6 @@
 # Agnostic Fundamentalism (AF) — A Civilizational Floor
 
-AF is an attempt to define a *minimum shared baseline* (“the floor”) that people with wildly different religions, philosophies, and political instincts can stand on together—without requiring metaphysical agreement.
+AF is an attempt to define a *minimum shared baseline* (“the floor”) that people with wildly different religions, philosophies, and political instincts can stand on together - without requiring metaphysical agreement.
 
 **Goal:** maximum inclusion of everyone capable of clearing the floor.
 
@@ -10,7 +10,7 @@ AF is an attempt to define a *minimum shared baseline* (“the floor”) that pe
 In normal language:
 - **Protect sentience:** treat the capacity for suffering/flourishing as non-negotiable. No cruelty license.
 - **Grow coherence:** prefer honesty, evidence, error-correction, and systems that learn.
-- **Hold metaphysics in superposition:** on unresolved big questions (free will, ultimate reality, God, etc.), we stay humble—no one gets to use metaphysical certainty to justify coercion or cruelty.
+- **Hold metaphysics in superposition:** on unresolved big questions (free will, ultimate reality, God, etc.), we stay humble - no one gets to use metaphysical certainty to justify coercion or cruelty.
 
 ## What this is
 A “civilizational BIOS”: a small set of invariants + basic processes that make cooperative society possible among diverse worldviews, and that can be revised transparently over time.
