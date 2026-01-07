@@ -1,4 +1,4 @@
-# Agnostic Fundamentalism (AF) — A Civilizational Floor
+# Agnostic Fundamentalism (AF) - A Civilizational Floor
 
 AF is an attempt to define a *minimum shared baseline* (“the floor”) that people with wildly different religions, philosophies, and political instincts can stand on together - without requiring metaphysical agreement.
 
