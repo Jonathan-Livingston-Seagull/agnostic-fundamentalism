@@ -12,6 +12,8 @@ Provide a universalist baseline for cooperative civilization: a minimal, metaphy
 - **Sanctity (naturalized):** a class of constraints that forbid treating sentience as mere instrument, even when locally beneficial.
 - **Coherence:** consistency + evidence-responsiveness + error-correction; within minds, between minds, and within institutions.
 - **Superposition:** unresolved metaphysical dualities remain non-final; no metaphysical certainty licenses coercion or cruelty.
+- **Attractors (social):** self-reinforcing basins of norms, incentives, and feedback loops. "Hell" and "Heaven" are shorthand for destructive vs generative attractors.
+- **Governance (stance):** gardening of attractors, not total control of outcomes. Change the soil, feedback, and constraints so better trajectories become likely.
 
 ## Non-negotiable Constraints
 1) **Non-instrumentalization:** cruelty, torture, humiliation, and deliberate manufacture of suffering are prohibited.
@@ -30,6 +32,7 @@ Provide a universalist baseline for cooperative civilization: a minimal, metaphy
 - **AF-RFC process:** propose → critique → sandbox trial → evaluation → adopt/rollback.
 - **Auditability:** public reasoning trails for policy; conflicts of interest disclosed.
 - **Anti-capture:** polycentric power, rotating roles, transparent processes, and easy forking.
+- **Augmented cognition constraint:** if LLMs are used for governance, education, or coordination, they must be designed to resist dominion, coercive manipulation, and capture, and to preserve privacy and autonomy by default (see `MODULES/ai/OPEN-SOURCE-THEOLOGICAL-PROPAGATION.md`).
 
 ## Compatibility Clause
 Any religion/philosophy/ideology may “run” if it compiles to AF-0 constraints in shared governance. Private metaphysics are free; public coercion is bounded by the kernel.
