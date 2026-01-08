@@ -12,6 +12,8 @@ Provide a universalist baseline for cooperative civilization: a minimal, metaphy
 - **Sanctity (naturalized):** a class of constraints that forbid treating sentience as mere instrument, even when locally beneficial.
 - **Coherence:** consistency + evidence-responsiveness + error-correction; within minds, between minds, and within institutions.
 - **Superposition:** unresolved metaphysical dualities remain non-final; no metaphysical certainty licenses coercion or cruelty.
+- **Attractors (social):** self-reinforcing basins of norms, incentives, and feedback loops. "Hell" and "Heaven" are shorthand for destructive vs generative attractors.
+- **Governance (stance):** gardening of attractors, not total control of outcomes. Change the soil, feedback, and constraints so better trajectories become likely.
 
 ## Non-negotiable Constraints
 1) **Non-instrumentalization:** cruelty, torture, humiliation, and deliberate manufacture of suffering are prohibited.
