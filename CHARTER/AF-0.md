@@ -32,6 +32,7 @@ Provide a universalist baseline for cooperative civilization: a minimal, metaphy
 - **AF-RFC process:** propose → critique → sandbox trial → evaluation → adopt/rollback.
 - **Auditability:** public reasoning trails for policy; conflicts of interest disclosed.
 - **Anti-capture:** polycentric power, rotating roles, transparent processes, and easy forking.
+- **Augmented cognition constraint:** if LLMs are used for governance, education, or coordination, they must be designed to resist dominion, coercive manipulation, and capture, and to preserve privacy and autonomy by default (see `MODULES/ai/OPEN-SOURCE-THEOLOGICAL-PROPAGATION.md`).
 
 ## Compatibility Clause
 Any religion/philosophy/ideology may “run” if it compiles to AF-0 constraints in shared governance. Private metaphysics are free; public coercion is bounded by the kernel.
